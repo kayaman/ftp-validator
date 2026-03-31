@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "4",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "FTP_HOST": "127.0.0.1",
+    "FTP_PORT": "2121",
+    "FTP_USER": "user_account",
+    "FTP_PASS": "placeholder_password",
+    "AZURE_STORAGE_CONNECTION_STRING": "",
+    "BLOB_CONTAINER": "data-container",
+    "TABLE_NAME": "AuditTable",
+    "QUEUE_NAME": "audit-queue",
+    "FTP_BASE_PATH": "files/downloads/records",
+    "BLOB_BASE_PATH": "files-storage"
+  }
+}
